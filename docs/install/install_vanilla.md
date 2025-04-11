@@ -1,27 +1,27 @@
-# Installation with Official Minecraft Launcher (Vanilla Launcher)
+# 在官方启动器上安装 (原版启动器)
 
-::: warning
-⚠️ Not recommended — setup is more complicated.
+::: 警告
+⚠️ 不推荐 — 设置非常复杂
 <br>
-We would recommend to use [Prism Launcher](./install_prism) instead.
+我们建议使用[Prism启动器](./install_prism).
 :::
-::: info
-This document will not explain the process of installing and logging into your Microsoft Account.
-:::
-
-## Install Fabric Loader
-Get the installer here: <https://fabricmc.net/use/installer/>. Open the installer, select `1.16.1` as the Minecraft version and the latest Fabric version, and finish the installation.
-::: warning
-You do **NOT** need Fabric API, it is banned and none of the allowed mods use it!
+::: 关于
+本文档将不会解释如何安装和登录您的 Microsoft 账户。
 :::
 
-## Download the mods
-Download the MCSR Ranked mod from [the Modrinth page](http://modrinth.com/mod/mcsr-ranked) into `%appdata%\.minecraft\mods`.
+## 安装 Fabric 加载器
+在此处获取安装包: <https://fabricmc.net/use/installer/>。 打开安装包，选择 Minecraft 版本为  `1.16.1` 以及最新的 Fabric 版本，完成安装。
+::: 警告
+你**不**需要Fabric API, 它是被禁止的，并且没有任何允许的模组使用它！
+:::
 
-Additionally, it is recommended to get other allowed mods from https://mods.tildejustin.dev/.
+## 下载模组
+下载MCSR Ranked模组在[Modrinth页面](http://modrinth.com/mod/mcsr-ranked)放在 `%appdata%\.minecraft\mods`里。
 
-## Launch the Profile
-When you open your Minecraft launcher it will now show Fabric as an option. With that your mods will work.
+此外，建议从 https://mods.tildejustin.dev/获取其他合法的模组。
 
-## (Advanced) Update Java
-It's generally recommended to use `Java 17+` for speedrunning for better performance and compatibility with some practice mods. Check out the relevant sections of [this document](https://docs.google.com/document/d/1PIjyPMulI3r5aZpfywt5OQR_12qEzX5UTfU8DQHtNp8/edit?pli=1&tab=t.0#heading=h.62ygxgaxcs5a) for a guide.
+## 配置启动文件
+当你打开你的Minecraft启动器时，它现在会显示Fabric作为实例。有了这个，你的模组就可以运行了。
+
+## (高级) 更新Java
+建议使用`Java 17+` 进行速通，能有更流畅的游戏和一些练习模组的兼容。查看 [此文档](https://docs.google.com/document/d/1PIjyPMulI3r5aZpfywt5OQR_12qEzX5UTfU8DQHtNp8/edit?pli=1&tab=t.0#heading=h.62ygxgaxcs5a)了解内容。
