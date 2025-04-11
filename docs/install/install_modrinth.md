@@ -1,9 +1,9 @@
-# Installation with Modrinth App
+# 在Modrinth软件上安装
 
-## Add Instance
-We recommend using the official modpack, which includes other allowed QoL and performance mods. Download it from [here](./download#modpack).
+## 添加实例
+我们推荐使用官方整合包，其中包含其他允许优化模组。 此处[下载](./download#modpack).
 
-Then, open Modrinth App, and go to `Create New Instance`, select `From File`, and choose the `.mrpack` file. Finally, launch your new instance.
+然后, 打开Modrinth软件, 点击 `Create New Instance`, 选择 `From File`, 然后选择 `.mrpack` 文件。最后，启动你的游戏实例。
 
-## (Advanced) Update Java
+## (高级) 更新Java
 TO-DO
