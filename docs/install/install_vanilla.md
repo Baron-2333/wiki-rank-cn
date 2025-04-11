@@ -18,7 +18,7 @@
 ## 下载模组
 下载MCSR Ranked模组在[Modrinth页面](http://modrinth.com/mod/mcsr-ranked)放在 `%appdata%\.minecraft\mods`里。
 
-此外，建议从 https://mods.tildejustin.dev/获取其他合法的模组。
+此外，建议从 https://mods.tildejustin.dev/ 获取其他合法的模组。
 
 ## 配置启动文件
 当你打开你的Minecraft启动器时，它现在会显示Fabric作为实例。有了这个，你的模组就可以运行了。
