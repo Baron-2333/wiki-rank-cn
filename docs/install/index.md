@@ -19,4 +19,4 @@
 
 ✅ **安装方法**:
 - [下载整合包](./download#modpack) – 包括合法的优化模组  
-- [仅下载模组](./download#mod) – 适合老手
+- [仅下载模组](./download#mod) – 高级
