@@ -1,22 +1,22 @@
-# Installation Guide
+# 安装指南
 
-::: tip
-  💬 Having issues? Check [this document](./faq) or feel free to ask in our [Discord server](https://mcsrranked.com/discord) in the <code>#tech-help</code> channel.
+::: 注意
+  💬 遇到问题？ 请查看 [此文档](./faq) 或在我们的 [Discord服务器](https://mcsrranked.com/discord) 上的 <code>#tech-help</code> 频道交流。
 :::
 
-You can play with the MCSR Ranked mod on most popular launchers.
+你可以在大多数流行的启动器上玩MCSR Ranked模组。
 
-🚀 **Launcher Installation Guide**
-- [Prism Launcher / MultiMC](./install_prism)
-- [Modrinth App](./install_modrinth)
-- [Official Minecraft Launcher](./install_vanilla)
+🚀 **启动器安装指南**
+- [Prism/MultiMC 启动器](./install_prism)
+- [Modrinth软件](./install_modrinth)
+- [官方启动器](./install_vanilla)
 
-::: warning
-- Cracked launchers/accounts are **not** supported and will **not** work.
-- Clients that modify the game like Lunar are **not** allowed.
-- You can only use mods that [are allowed](https://mods.tildejustin.dev/) for speedrun.com.
+::: 警告
+- 外挂启动器或非常规渠道账号**不**允许使用和运行。
+- 类似月亮端的修改游戏的客户端**不**允许使用。
+- 你只能使用 speedrun.com [允许的模组](https://mods.tildejustin.dev/)。
 :::
 
-✅ **Installation Method**:
-- [Download the modpack](./download#modpack) – includes allowed QoL/performance mods  
-- [Download the mod only](./download#mod) – advanced
+✅ **安装方法**:
+- [下载整合包](./download#modpack) – 包括合法的优化模组  
+- [仅下载模组](./download#mod) – 适合老手
