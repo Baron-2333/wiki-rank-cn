@@ -4,7 +4,7 @@
 
 本文档解释了贡献指南并提供了一些建议。
 
-在开始前，必须得有一个github账号。如果没有，请先[点此注册](https://github.com/signup).
+在开始前，你必须得有一个github账号。如果没有，请先[点此注册](https://github.com/signup).
 
 ## 贡献指南
 - [贡献规范](./guidelines)
