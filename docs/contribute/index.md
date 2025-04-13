@@ -1,16 +1,16 @@
-# Contribute on MCSR Ranked Wiki Page
+# 为 MCSR Ranked Wiki 作贡献
 
-Thank you for your interest in this project :)
+感谢你对本项目感兴趣 :)
 
-These documents explain the guidelines for contributing and provide some tips.
+本文档解释了贡献指南并提供了一些建议。
 
-Before you begin, you must have a GitHub account. if you don't, [create a GitHub account first](https://github.com/signup).
+在开始前，必须得有一个github账号。如果没有，请先[点此注册](https://github.com/signup).
 
-## Contribution Guides
-- [Contribution Guidelines](./guidelines)
-- [How to Edit the Page](./pull_request)
-- [Request Reviews](./review)
+## 贡献指南
+- [贡献规范](./guidelines)
+- [如何编辑页面](./pull_request)
+- [申请审查](./review)
 
-## Markdown Format
-This project is using Markdown Extensions format, for the most parts.<br> 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+## Markdown 格式
+本项目主要使用Markdown扩展格式。<br>
+查阅完整的[Markdown扩展列表文档](https://vitepress.dev/guide/markdown)
