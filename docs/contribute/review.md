@@ -1,17 +1,18 @@
-# Request Reviews
+# Request审查
 
-After you create the pull request, some maintainer will review it.
+在你创建了一个Pull Request之后，项目拥有者会检查你的Request
 
-If there are no issues, it will be applied to the page. But you may be asked to change specific parts.
+如果Request没有问题，所作出的更改就会被同步到网页。<br>
+但是你也许会被要求修改一些内容。
 
 ---
 
 ![](./img/review.png)
 
-So, you can apply the suggestion to your request. But if you don't agree with the suggestion, leave a comment or discuss it on the [Discord server](https://mcsrranked.com/discord).
+你可以根据审查意见来修改你的Request，如果你认为审查意见有所不妥，可以留一条Comment或者在[Discord服务器](https://mcsrranked.com/discord)上讨论
 
 ---
 
 ![alt text](./img/after_review.png)
 
-If you get an approval from maintainers, your changes will be applied to the page!
+如果你得到了拥有者的认可，你所作出的更改就会同步到网页上
