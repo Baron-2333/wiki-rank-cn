@@ -1,2 +1,2 @@
-# Contribution Guidelines
+# 贡献规范
 

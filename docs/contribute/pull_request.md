@@ -1,40 +1,40 @@
-# Edit the Page
+# 编辑页面
 
 ## Pull Request
-If you know how to use GitHub, you can edit the documentation while following the guidelines and make a Pull Request.
+如果你知道如何使用github, 你可以在遵守指南的同时编辑文档，并提交一个Pull Request。
 
-If you don't know how to use GitHub, please follow the below steps:
+如果你不知道怎么使用github，请跟随下面的步骤进行操作。
 
-## Starting with Edit
+## 开始一次编辑
 !["Edit this page" button at the bottom](./img/bottom.png)
 
-At the bottom of each page, there is a "Edit the page" button. Click on that button.<br>
-If you are not logged in to GitHub, you will be taken to a login page. Just login :)
+在每个页面的底部, 会有一个“Edit the page”按钮，点击它。<br>
+如果你没有登陆github, 你会跳转到登录界面，确保登陆成功。
 
-### First Time Edit
+### 初次编辑
 ![](./img/first_fork.png)
 
-If it's your first time editing the page, you will get this page. In this case you need to click the "Fork this repository" button on the middle.
+如果你是第一次编辑页面，会看到上图界面。你需要点击中间的“Fork this repository”
 
-### Edit the page
+### 编辑页面
 ![](./img/edit.png)
 
-You can now edit the content of this page. Click "Preview" button on the top left of the editor to see how your content will appear on the page. If you are looking for formattings, see [here](./#markdown-format).
+现在你可以编辑页面内容了。点击编辑器左上角的“Preview”按钮，即可查看编辑后的内容。如果你在查阅相关格式，请点击[这里](./#markdown-format)。
 
 ---
 
-### Create an Edit Request
+### 创建一个Request
 ![](./img/commit.png)
 
-When you are done with editing, click the "Commit changes..." button on the top right of the editor.
+当你完成了编辑，点击编辑器右上角的“Commit changes...”按钮进行提交。
 
 ---
 
 ![](./img/create_commit.png)
 
-Then you will get this window.<br>
-Espeically in "Commit message", you have to make a title of your edit request. This should make it easy to understand what your change is.<br>
-When done, click the "Propose changes" button.
+然后你会得到这个窗口。<br>
+在“Commit message”里，你必须对你的Request拟定一个标题。标题需言简意赅，能直接体现本次编辑做出的修改。<br>
+当一切完毕，点击“Propose changes”按钮。
 
 ---
 
@@ -42,9 +42,9 @@ When done, click the "Propose changes" button.
 
 ![](./img/create_pull_request_2.png)
 
-And click the "Create Pull Request" button.<br>
+再点击“Create Pull Request”按钮<br>
 
 ---
 
-Now, it's done. You have to wait for the review before your change gets applied to the page.<br>
-If you want to check review process, see [this next document](./review) :)
+现在全部完毕，所做出的更改将在审查过后可见<br>
+如果你想查看审查过程，请查阅[此文档](./review) :)
