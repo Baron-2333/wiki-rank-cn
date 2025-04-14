@@ -23,7 +23,7 @@
 
 ---
 
-### 创建一个编辑请求
+### 创建一个Request
 ![](./img/commit.png)
 
 当你完成了编辑，点击编辑器右上角的“Commit changes...”按钮进行提交。
@@ -33,7 +33,7 @@
 ![](./img/create_commit.png)
 
 然后你会得到这个窗口。<br>
-在“Commit message”里，你必须对你的编辑请求拟定一个标题。标题需言简意赅，能直接体现本次编辑做出的修改。<br>
+在“Commit message”里，你必须对你的Request拟定一个标题。标题需言简意赅，能直接体现本次编辑做出的修改。<br>
 当一切完毕，点击“Propose changes”按钮。
 
 ---
