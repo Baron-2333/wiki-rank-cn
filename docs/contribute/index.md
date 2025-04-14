@@ -7,7 +7,7 @@
 在开始前，你必须得有一个github账号。如果没有，请先[点此注册](https://github.com/signup).
 
 ## 贡献指南
-- [贡献规范](./guidelines.md)
+- [贡献指南](./guidelines.md)
 - [如何编辑页面](./pull_request.md)
 - [申请审查](./review.md)
 
